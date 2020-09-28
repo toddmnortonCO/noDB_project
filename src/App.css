@@ -1,0 +1,23 @@
+.Header {
+    margin: auto;
+    width: 75%;
+    border: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.container {
+  display: flex;
+  /* flex-direction: column; */
+  width: 100vw;
+}
+.parks-to-visit {
+    width: 400px;
+    margin: 25px;
+}
+.parks-visited {
+    width: 400px;
+    margin: 25px;
+    align-content: flex-end;
+
+}
