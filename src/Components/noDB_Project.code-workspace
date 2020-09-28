@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "../.."
+		},
+		{
+			"name": "noDB_project-1",
+			"path": "../../../../../../DevMountainProjects/noDB_project-1"
 		}
 	],
 	"settings": {
